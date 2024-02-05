@@ -1,0 +1,58 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "ba61ad6a-a69f-4763-a7b4-d67acf338636": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Inspired_Paw_-_Blog_Banner_Design_3600_x_2000_px_3600_x_1000_px_4.png",
+        "image_link": "",
+        "parallax-effect": false,
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "section_width": "full",
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "06bd9c72-bb17-4b23-a7ad-2db5dc0dd558": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15550903156781__06bd9c72-bb17-4b23-a7ad-2db5dc0dd558-16837761545b1e7693-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Got a question or looking for more information? <\/strong><\/p><p>We'd love to hear from you! Please complete the form below and our customer service team will respond within 24-48 hours. Or you can send us an email at <a href=\"mailto:millershealthydogtreats@gmail.com\" title=\"mailto:millershealthydogtreats@gmail.com\">millershealthydogtreats@gmail.com<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15550903156781__06bd9c72-bb17-4b23-a7ad-2db5dc0dd558-16837761545b1e7693-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "177bb744-7b7a-4930-983c-600ac8461c3a": {
+      "type": "contact-form",
+      "settings": {
+        "heading": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ba61ad6a-a69f-4763-a7b4-d67acf338636",
+    "06bd9c72-bb17-4b23-a7ad-2db5dc0dd558",
+    "177bb744-7b7a-4930-983c-600ac8461c3a"
+  ]
+}

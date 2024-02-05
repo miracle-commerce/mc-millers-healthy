@@ -1,0 +1,37 @@
+{
+  "sections": {
+    "d6da38ad-9d44-458f-852f-e5fc14ef3a93": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Inspired_Paw_-_Blog_Banner_Design_3600_x_2000_px_1.png",
+        "image_2": "shopify:\/\/shop_images\/Inspired_Paw_Mobile_-_All_Collections_Banner_Design.png",
+        "image_link": "",
+        "parallax-effect": false,
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "section_width": "full",
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "main": {
+      "type": "main-list-collections",
+      "settings": {
+        "title": "",
+        "sort": "alphabetical",
+        "image_ratio": "portrait",
+        "color_scheme": "accent-2",
+        "image_padding": false
+      }
+    }
+  },
+  "order": [
+    "d6da38ad-9d44-458f-852f-e5fc14ef3a93",
+    "main"
+  ]
+}

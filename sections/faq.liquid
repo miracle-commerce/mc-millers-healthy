@@ -1,0 +1,61 @@
+<div class="faq_page page-width page-width—narrow">
+{% for block in section.blocks %}
+{% case block.type %}
+{% when 'faqheader' %}
+<h3 class="faq_page_subheader">{{ block.settings.faqheader }}</h3>
+{% when 'faq' %}
+<details>
+<summary>{{ block.settings.faq_title }}</summary>
+<p>{{ block.settings.faq_content }}</p>
+</details>
+{% endcase %}
+{% endfor %}
+
+</div>
+{% schema %}
+{
+"name": "FAQ",
+"blocks": [
+{
+"type": "faqheader",
+"name": "Heading",
+"settings": [
+{
+"type":"text",
+"id": "faqheader",
+"label": "Heading",
+"default": "Header"
+}
+]
+},
+{
+"type": "faq",
+"name": "Question",
+"settings": [
+{
+"type":"text",
+"id": "faq_title",
+"label": "Question",
+"default": "Question"
+},
+{
+"type":"richtext",
+"id": "faq_content",
+"label": "Answer",
+"default": "<p>This is your answer.</p>"
+}
+]
+}
+],
+
+"presets": [
+
+				{
+					"category": "FAQ Section",
+					"name": "FAQ"
+				}
+
+		   ]
+
+}
+{% endschema %}

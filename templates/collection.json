@@ -1,0 +1,54 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "collapse_on_larger_devices": false
+      }
+    },
+    "17070562348c664e34": {
+      "type": "apps",
+      "blocks": {
+        "dr_volume_discounts_discount_promotion_aphtkm": {
+          "type": "shopify:\/\/apps\/dr-volume-discounts\/blocks\/discount-promotion\/253aa77a-a419-4c90-a20b-e9283efcd331",
+          "settings": {
+            "widget_alignment": "left",
+            "text_alignment": "left",
+            "font_size": 16,
+            "text_color": "#393939",
+            "secondary_text_color": "#0ba619",
+            "border_color": "#656565",
+            "border_size": 1
+          }
+        }
+      },
+      "block_order": [
+        "dr_volume_discounts_discount_promotion_aphtkm"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "17070562348c664e34"
+  ]
+}

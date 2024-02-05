@@ -1,0 +1,253 @@
+{
+  "current": {
+    "colors_solid_button_labels": "#ffffff",
+    "colors_accent_1": "#936948",
+    "colors_accent_2": "#a47551",
+    "colors_text": "#000000",
+    "colors_outline_button_labels": "#523a28",
+    "colors_background_1": "#ffffff",
+    "colors_background_2": "#f4efe9",
+    "type_header_font": "noto_serif_n4",
+    "heading_scale": 100,
+    "type_body_font": "avenir_next_n4",
+    "body_scale": 100,
+    "social_twitter_link": "",
+    "social_facebook_link": "https:\/\/www.facebook.com\/profile.php?id=100092232755827",
+    "social_pinterest_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/millershealthydogtreats\/",
+    "social_tiktok_link": "https:\/\/www.tiktok.com\/@millershealthydogtreats",
+    "social_snapchat_link": "",
+    "social_youtube_link": "",
+    "favicon": "shopify:\/\/shop_images\/Miller_s_Healthy_Dog_Treats_-_Jayson_Miller1.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Miller_s_Healthy_Dog_Treats_-_Jayson_Miller1.png",
+    "checkout_logo_size": "large",
+    "checkout_accent_color": "#a47551",
+    "checkout_button_color": "#000000",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "d0a5143e-3bf4-4892-b429-4d28a4f2c567": {
+            "type": "announcement",
+            "settings": {
+              "text": "FREE SHIPPING ON ALL ORDERS",
+              "icon": "box",
+              "color_scheme": "accent-1",
+              "link": "shopify:\/\/collections\/all"
+            }
+          },
+          "32a84ec7-4187-41d0-bfcf-4d5f5d864fc2": {
+            "type": "announcement",
+            "settings": {
+              "text": "VETERAN OWNED AND OPERATED",
+              "icon": "star",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          },
+          "93f8eced-9f60-4890-919c-839e59d665c8": {
+            "type": "announcement",
+            "settings": {
+              "text": "20% OFF VETERANS, FIRST RESPONDERS, AND TEACHERS USE HEROES20",
+              "icon": "star",
+              "color_scheme": "accent-1",
+              "link": "shopify:\/\/collections\/all"
+            }
+          },
+          "7bf425b9-0c67-4162-b85c-dc38b3ddc6cd": {
+            "type": "announcement",
+            "settings": {
+              "text": "BUNDLE AND SAVE MORE",
+              "icon": "check_mark",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          },
+          "announcement_fFaJNh": {
+            "type": "announcement",
+            "settings": {
+              "text": "HOMEMADE DEHYDRATED SWEET POTATO CHIPS",
+              "icon": "star",
+              "color_scheme": "accent-1",
+              "link": "shopify:\/\/products\/dehydrated-sweet-potato-chips"
+            }
+          }
+        },
+        "block_order": [
+          "d0a5143e-3bf4-4892-b429-4d28a4f2c567",
+          "32a84ec7-4187-41d0-bfcf-4d5f5d864fc2",
+          "93f8eced-9f60-4890-919c-839e59d665c8",
+          "7bf425b9-0c67-4162-b85c-dc38b3ddc6cd",
+          "announcement_fFaJNh"
+        ],
+        "settings": {
+          "autoscroll": true,
+          "direction": "left",
+          "speed": "30s",
+          "color_scheme": "accent-2"
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "color_scheme": "background-1",
+          "transparent_header": false,
+          "content_color": "#ffffff",
+          "logo": "shopify:\/\/shop_images\/Miller_s_Healthy_Dog_Treats_-_Jayson_Miller1.png",
+          "logo_width": 140,
+          "logo_position": "middle-left",
+          "enable_mobile_menu": false,
+          "menu": "main-menu",
+          "enable_social": true,
+          "show_line_separator": false,
+          "enable_sticky_header": false
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "bb62ef1e-49d3-47b3-ae06-88bb3266453a": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Miller_s_Healthy_Dog_Treats_-_Jayson_Miller.png",
+              "image_width": 200,
+              "alignment": ""
+            }
+          },
+          "cb102636-70df-458b-99db-aebaf8e752cd": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Company",
+              "menu": "footer",
+              "desktop_content_alignment": "left"
+            }
+          },
+          "193f53eb-903a-4764-abe6-9f7687e87f3b": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Information",
+              "menu": "info",
+              "desktop_content_alignment": "left"
+            }
+          },
+          "4713a4e4-5699-44a0-b6a4-311e83a5d9f3": {
+            "type": "text",
+            "settings": {
+              "heading": "Contact Us",
+              "subtext": "<p>Questions or comments? Drop us a line, we'd love to hear from you. <a href=\"\/pages\/contact\" title=\"Contact\">Contact Us<\/a><\/p>",
+              "desktop_content_alignment": "left"
+            }
+          }
+        },
+        "block_order": [
+          "bb62ef1e-49d3-47b3-ae06-88bb3266453a",
+          "cb102636-70df-458b-99db-aebaf8e752cd",
+          "193f53eb-903a-4764-abe6-9f7687e87f3b",
+          "4713a4e4-5699-44a0-b6a4-311e83a5d9f3"
+        ],
+        "settings": {
+          "color_scheme": "background-2",
+          "newsletter_enable": true,
+          "newsletter_heading": "Sign up for our newsletter",
+          "show_social": true,
+          "enable_country_selector": true,
+          "enable_language_selector": true,
+          "payment_enable": true
+        }
+      },
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/Miller_s_Healthy_Dog_Treats_-_Jayson_Miller.png",
+          "logo_max_width": 170,
+          "color_scheme": "background-1"
+        }
+      },
+      "main-password-footer": {
+        "type": "main-password-footer",
+        "settings": {
+          "color_scheme": "background-2"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "judgeme_core_23a5684a": {
+        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "6174324309569838175": {
+        "type": "shopify:\/\/apps\/smile-loyalty-rewards\/blocks\/smile-shopify-app\/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "12120936241911852800": {
+        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/reviews_tab\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {
+          "position": "right"
+        }
+      },
+      "15683396631634586217": {
+        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": false,
+        "settings": {
+          "button_color": "#000000",
+          "button_icon": "chat_bubble",
+          "button_text": "no_text",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": "👋 Hi, message us with any questions. We're happy to help!"
+        }
+      },
+      "2149237844343505006": {
+        "type": "shopify:\/\/apps\/avada-seo-suite\/blocks\/avada-seo\/15507c6e-1aa3-45d3-b698-7e175e033440",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "15300375147181448869": {
+        "type": "shopify:\/\/apps\/dr-volume-discounts\/blocks\/instant-load\/253aa77a-a419-4c90-a20b-e9283efcd331",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
+  "presets": {
+    "Puppy": {
+      "colors_solid_button_labels": "#FFFFFF",
+      "colors_accent_1": "#FFA18A",
+      "colors_accent_2": "#266070",
+      "colors_text": "#333333",
+      "colors_outline_button_labels": "#266070",
+      "colors_background_1": "#FFFFFF",
+      "colors_background_2": "#E8F3F6",
+      "type_header_font": "noto_serif_n4",
+      "type_body_font": "avenir_next_n4",
+      "sections": {
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "blocks": {
+            "announcement-bar-0": {
+              "type": "announcement",
+              "settings": {
+                "color_scheme": "background-1"
+              }
+            }
+          },
+          "block_order": [
+            "announcement-bar-0"
+          ],
+          "settings": {
+          }
+        }
+      }
+    }
+  }
+}

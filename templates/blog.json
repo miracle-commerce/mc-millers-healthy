@@ -1,0 +1,64 @@
+{
+  "sections": {
+    "164214487074b51463": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_3470.jpg",
+        "image_2": "shopify:\/\/shop_images\/IMG_3610_a8afbd99-c2ad-40a8-8fea-65ad494c97ce.jpg",
+        "image_link": "",
+        "parallax-effect": false,
+        "image_overlay_opacity": 10,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "section_width": "full",
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "a7d15ef1-2913-4be8-9f1b-404957e9ab68": {
+      "type": "rich-text",
+      "blocks": {
+        "ed3b2acd-18a0-4184-b7b6-1e6119219b43": {
+          "type": "heading",
+          "settings": {
+            "heading": "Miller's Healthy Dog Treats Blog",
+            "heading_size": "h1"
+          }
+        },
+        "template--15550902960173__a7d15ef1-2913-4be8-9f1b-404957e9ab68-16837761545b1e7693-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Check here often for anything related to new products, flavors or just good information about our treats and programs! <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ed3b2acd-18a0-4184-b7b6-1e6119219b43",
+        "template--15550902960173__a7d15ef1-2913-4be8-9f1b-404957e9ab68-16837761545b1e7693-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "layout": "grid",
+        "show_image": true,
+        "image_height": "medium",
+        "show_date": false,
+        "show_author": true
+      }
+    }
+  },
+  "order": [
+    "164214487074b51463",
+    "a7d15ef1-2913-4be8-9f1b-404957e9ab68",
+    "main"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "16421433573cd74acf": {
+      "type": "rich-text",
+      "blocks": {
+        "23a56d5e-32d7-4f95-b4f1-94a752aaa551": {
+          "type": "heading",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "heading_size": "h1"
+          }
+        },
+        "1642143357c182501a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to Inspired Paw’s FAQ page! We’re covering our most asked questions. We’ll answer all your top questions in the list below.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "23a56d5e-32d7-4f95-b4f1-94a752aaa551",
+        "1642143357c182501a-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "164214336147003eb4": {
+      "type": "faq",
+      "blocks": {
+        "6a327ecf-e9b6-4c55-845b-749836e272e1": {
+          "type": "faq",
+          "settings": {
+            "faq_title": "1. Are your themes compatible with OS 2.0?",
+            "faq_content": "<p>Yes, all our themes are fully compatible with Shopify OS 2.0<\/p>"
+          }
+        },
+        "64d8d434-6d96-4119-8181-0149be5e0cdf": {
+          "type": "faq",
+          "settings": {
+            "faq_title": "2. Can I change colors and fonts?",
+            "faq_content": "<p>Yes, you can. Usually Shopify’s font library is sufficient, but if you want to add custom fonts to the theme, you can contact us and we will do it for you without any additional charges. <\/p>"
+          }
+        },
+        "0e7cfb26-c4a1-49f3-bc19-af88f363b00b": {
+          "type": "faq",
+          "settings": {
+            "faq_title": "3. Are all your themes mobile responsive?",
+            "faq_content": "<p>Yes, all of our themes are fully responsive on mobile devices.<\/p>"
+          }
+        },
+        "c1dc60d2-a605-4636-9aaf-9412916ce3ab": {
+          "type": "faq",
+          "settings": {
+            "faq_title": "4. What’s included with my theme purchase?",
+            "faq_content": "<p>- Theme file for uploading to your Shopify store<br\/>- Editable Canva templates<br\/>- Shopify SEO guide<br\/>- Getting started instruction<br\/>- Live chat support<\/p>"
+          }
+        },
+        "c00a8330-65c8-4697-9fb0-415437b7509f": {
+          "type": "faq",
+          "settings": {
+            "faq_title": "5. Will this theme work with my apps?",
+            "faq_content": "<p>Yes, our themes are compatible with most apps on the Shopify app store.<\/p>"
+          }
+        },
+        "d05c38a6-596e-488b-8c4b-75c636be6e16": {
+          "type": "faq",
+          "settings": {
+            "faq_title": "6. I’m new to Shopify, can you provide help with store setup?",
+            "faq_content": "<p>Yes, you just need to reach out to us and we'll handle the store setup for you at no extra cost.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "6a327ecf-e9b6-4c55-845b-749836e272e1",
+        "64d8d434-6d96-4119-8181-0149be5e0cdf",
+        "0e7cfb26-c4a1-49f3-bc19-af88f363b00b",
+        "c1dc60d2-a605-4636-9aaf-9412916ce3ab",
+        "c00a8330-65c8-4697-9fb0-415437b7509f",
+        "d05c38a6-596e-488b-8c4b-75c636be6e16"
+      ],
+      "settings": {
+      }
+    },
+    "1642143622c6a4b3b6": {
+      "type": "rich-text",
+      "blocks": {
+        "1642143622114941a2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Didn't find what you were looking for? Feel free to <a href=\"\/pages\/contact\" title=\"Contact\">contact us<\/a> at any time!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1642143622114941a2-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16421433573cd74acf",
+    "164214336147003eb4",
+    "1642143622c6a4b3b6"
+  ]
+}

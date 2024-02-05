@@ -1,0 +1,135 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "16467129430843b180": {
+      "type": "rich-text",
+      "blocks": {
+        "164671294319180099-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Size Guide",
+            "heading_size": "h1"
+          }
+        },
+        "164671294319180099-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Please use our size guides as an estimate as to what size to purchase, as styles, sizes and cuts vary between each individual item and may not be consistent with the size guide measurements.<\/p><p>If you are unsure & require further assistance regarding your sizes and measurements, please <a href=\"\/pages\/contact\" title=\"Contact\">contact us<\/a>. We are more than happy to help you. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164671294319180099-0",
+        "164671294319180099-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1646712968be5e2183": {
+      "type": "multicolumn",
+      "blocks": {
+        "fe9b3602-8b35-4e3f-98fd-99ff5784b49c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bust.jpg",
+            "title": "BUST",
+            "text": "<p>Starting at a point on bust, wrap measuring tape around the back and bring to tape edge. Make sure tape is pulled snug and does not droop.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a3da681e-6f93-47f5-b86f-e99609e38c6d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/waist.jpg",
+            "title": "WAIST",
+            "text": "<p>Starting at a point on natural waist, wrap measuring tape around the back and bring to tape edge. Make sure tape is pulled snug and does not droop.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "164671296873b31a85-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hips.jpg",
+            "title": "HIPS",
+            "text": "<p>Starting at the widest part of your hips, wrap measuring tape around the back and bring to tape edge. Make sure tape is pulled snug, stays horizontal around your butt and does not droop.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "fe9b3602-8b35-4e3f-98fd-99ff5784b49c",
+        "a3da681e-6f93-47f5-b86f-e99609e38c6d",
+        "164671296873b31a85-0"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "swipe_on_desktop": false
+      }
+    },
+    "4fe2e609-68b2-4d42-a89d-57d1e78fb14d": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16702197760222__4fe2e609-68b2-4d42-a89d-57d1e78fb14d-167645117465337592-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "SIZE CHART",
+            "heading_size": "h1"
+          }
+        },
+        "template--16702197760222__4fe2e609-68b2-4d42-a89d-57d1e78fb14d-167645117465337592-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Refer to this size chart in order to find your size. Our team measures every single item. Any products that fall outside of this chart will have notes on the listing recommending if you should size up or down.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16702197760222__4fe2e609-68b2-4d42-a89d-57d1e78fb14d-167645117465337592-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/frontpage"
+          }
+        }
+      },
+      "block_order": [
+        "template--16702197760222__4fe2e609-68b2-4d42-a89d-57d1e78fb14d-167645117465337592-0",
+        "template--16702197760222__4fe2e609-68b2-4d42-a89d-57d1e78fb14d-167645117465337592-1",
+        "template--16702197760222__4fe2e609-68b2-4d42-a89d-57d1e78fb14d-167645117465337592-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Size_Guide.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16467129430843b180",
+    "1646712968be5e2183",
+    "4fe2e609-68b2-4d42-a89d-57d1e78fb14d"
+  ]
+}

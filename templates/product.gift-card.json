@@ -1,0 +1,162 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "72895f6d-28dc-42e1-910b-ba552c1203e6": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p style=\"text-align: center\">Secured and trusted checkout with:<\/p>"
+          }
+        },
+        "890cc347-7659-4079-bc7d-81bd3e7e3857": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p style=\"text-align:center;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0665\/1736\/9072\/files\/Inspired_Soul_-_Secured_Checkout_design_2000_x_400_px.png?v=1666410371\" alt=\"secured checkout\" width=\"90%\" ><\/p>"
+          }
+        },
+        "8396bf33-2f39-4855-b50b-2fede0245ace": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Product Info",
+            "content": "<p>I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.<\/p>",
+            "page": "",
+            "icon": "eye"
+          }
+        },
+        "e6bc0478-88f2-4174-86be-12bddb1d504b": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Refunds & Exchanges",
+            "content": "<p>I’m a Return and Refund policy. I’m a great place to let your customers know what to do in case they are dissatisfied with their purchase. Having a straightforward refund or exchange policy is a great way to build trust and reassure your customers that they can buy with confidence.<\/p>",
+            "page": "",
+            "icon": "return"
+          }
+        },
+        "f998f06f-6c22-4340-878b-ab4c3e0b238a": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Shipping Information",
+            "content": "<p>I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.<\/p>",
+            "page": "",
+            "icon": "map_pin"
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "description",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "72895f6d-28dc-42e1-910b-ba552c1203e6",
+        "890cc347-7659-4079-bc7d-81bd3e7e3857",
+        "8396bf33-2f39-4855-b50b-2fede0245ace",
+        "e6bc0478-88f2-4174-86be-12bddb1d504b",
+        "f998f06f-6c22-4340-878b-ab4c3e0b238a",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": false,
+        "gallery_layout": "thumbnail_slider",
+        "media_size": "medium",
+        "mobile_thumbnails": "show",
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
+    "judgeme_section_review_widget_59eb": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1642150476bd34c29a": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "You may also like",
+        "collection": "frontpage",
+        "products_to_show": 4,
+        "show_view_all": false,
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "judgeme_section_review_widget_59eb",
+    "1642150476bd34c29a",
+    "product-recommendations"
+  ]
+}

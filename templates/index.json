@@ -1,0 +1,611 @@
+{
+  "sections": {
+    "e01e6c3e-b2aa-48cd-85d8-8991966dc74d": {
+      "type": "image-banner",
+      "blocks": {
+        "49844b85-1728-477d-a0e2-f7924597fb9e": {
+          "type": "heading",
+          "settings": {
+            "heading": "Homemade Healthy Treats That Dogs Love",
+            "heading_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "49844b85-1728-477d-a0e2-f7924597fb9e"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_2566.jpg",
+        "image_link": "",
+        "parallax-effect": false,
+        "image_overlay_opacity": 10,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "section_width": "full",
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "ae6df1fe-dd8a-40a2-a09b-f41275640b81": {
+      "type": "image-with-text",
+      "blocks": {
+        "d12bc256-6092-491d-a25a-b552a430b341": {
+          "type": "caption",
+          "settings": {
+            "caption": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "51c98eb6-ef49-415e-8cd0-3786e51f8ff6": {
+          "type": "heading",
+          "settings": {
+            "heading": "INTRODUCING HOMEMADE DEHYDRATED SWEET POTATO CHIPS",
+            "heading_size": "h1"
+          }
+        },
+        "a106f765-ad79-408f-8e32-3552fdde5a6a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Looking for a healthy snack for your dog? Try our new Homemade Dehydrated Sweet Potato Chips! Made with real sweet potatoes, these chips are a delicious and nutritious treat for your fur baby. Give your dog the gift of a tasty and wholesome snack with our Dehydrated Sweet Potato Chips! <br\/><\/p><p><\/p><p><a href=\"\/products\/dehydrated-sweet-potato-chips\" target=\"_blank\" title=\"Homemade Dehydrated Sweet Potato Chips\">Shop HERE!<\/a><\/p>",
+            "text_style": "body"
+          }
+        },
+        "9dd63408-c807-4f1f-b95c-710b0a22113f": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/pages\/about-us"
+          }
+        }
+      },
+      "block_order": [
+        "d12bc256-6092-491d-a25a-b552a430b341",
+        "51c98eb6-ef49-415e-8cd0-3786e51f8ff6",
+        "a106f765-ad79-408f-8e32-3552fdde5a6a",
+        "9dd63408-c807-4f1f-b95c-710b0a22113f"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_3690.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "5a660df6-a025-4a51-89b8-3b64b354874d": {
+      "type": "image-with-text",
+      "blocks": {
+        "1bbaf03a-15b3-4574-b0a4-7da7477b08fc": {
+          "type": "caption",
+          "settings": {
+            "caption": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--15550903058477__5a660df6-a025-4a51-89b8-3b64b354874d-1683776008f1586c98-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Our Treats Are BUTTER Than The Rest?",
+            "heading_size": "h1"
+          }
+        },
+        "template--15550903058477__5a660df6-a025-4a51-89b8-3b64b354874d-1683776008f1586c98-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Our peanut butter dog treats are freshly baked, homemade, and hand-cut, with no preservatives. We make our own peanut butter from scratch.<\/li><li>We NEVER use chicken fillers or chicken. No dairy or egg.<\/li><li>All ingredients are simple, healthy, clearly labeled, and approved by the Department of Agriculture.<\/li><li>Our treats have a longer shelf life due to dehydration that will stay fresh for four months at room temperature.<\/li><li>We offer free domestic shipping, free local delivery, and local pickup.<\/li><li>Festive holiday-themed shapes<\/li><li>Veteran owned and operated<\/li><li><a href=\"https:\/\/millershealthydogtreats.com\/blogs\/news\/unleashing-joy-gracies-gifts-treat-giving-program\" target=\"_blank\" title=\"https:\/\/millershealthydogtreats.com\/blogs\/news\/unleashing-joy-gracies-gifts-treat-giving-program\">Gracie’s Gifts Program<\/a> that supports local animal shelters<br\/><\/li><\/ul>",
+            "text_style": "body"
+          }
+        },
+        "template--15550903058477__5a660df6-a025-4a51-89b8-3b64b354874d-1683776008f1586c98-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "1bbaf03a-15b3-4574-b0a4-7da7477b08fc",
+        "template--15550903058477__5a660df6-a025-4a51-89b8-3b64b354874d-1683776008f1586c98-0",
+        "template--15550903058477__5a660df6-a025-4a51-89b8-3b64b354874d-1683776008f1586c98-1",
+        "template--15550903058477__5a660df6-a025-4a51-89b8-3b64b354874d-1683776008f1586c98-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_3684.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "52c3146d-b667-484a-83fa-f6f4fb9c44a6": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19685777244468__52c3146d-b667-484a-83fa-f6f4fb9c44a6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "ALL FIRST TIME CUSTOMERS ENJOY A 20% OFF COUPON. Plus FREE Shipping Everyday.",
+            "heading_size": "h1"
+          }
+        },
+        "template--19685777244468__52c3146d-b667-484a-83fa-f6f4fb9c44a6-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All first time customers please enjoy a coupon for 20% off your entire order. Just use the code Welcome20 at checkout. <br\/><br\/>Remember that we always have FREE shipping and local delivery within 10 miles of Acworth, Ga. <br\/><br\/>If you are looking for larger quantities or even wholesale opportunities, reach out to us by email or any of our social media accounts and lets get you taken care of. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19685777244468__52c3146d-b667-484a-83fa-f6f4fb9c44a6-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "template--19685777244468__52c3146d-b667-484a-83fa-f6f4fb9c44a6-heading-1",
+        "template--19685777244468__52c3146d-b667-484a-83fa-f6f4fb9c44a6-text-1",
+        "template--19685777244468__52c3146d-b667-484a-83fa-f6f4fb9c44a6-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0153.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "305d32d3-54a3-42bb-aa31-7d44b1668a69": {
+      "type": "image-with-text",
+      "blocks": {
+        "f56fe562-7f1a-4097-9ac4-ec9afd6f9a50": {
+          "type": "caption",
+          "settings": {
+            "caption": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "928503a0-0132-4e85-af8c-75fcb803f8d1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Veteran-Owned Matters",
+            "heading_size": "h1"
+          }
+        },
+        "450ac42a-9eee-403e-a85a-9631c8968d2e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>(A note from the owner, <a href=\"https:\/\/millershealthydogtreats.com\/pages\/about-us\" target=\"_blank\" title=\"https:\/\/millershealthydogtreats.com\/pages\/about-us\">Jayson<\/a>)<\/p><p>During my service, integrity, discipline, mission accomplishment, and selfless service were ingrained in me. These are qualities I utilize every day in my business. These characteristics are important for anyone who is running a small business but even more important for someone who is producing treats that someone's family pet will eat. It's not just that I am a Veteran Owned and Operated business. The characteristics of my service allow people to trust that they will receive exactly what they ordered, shipped in the timely manner that is described, and all issues with a customer will be solved using compassion, empathy, and the utmost professionalism. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "bd50ae8c-084e-4992-a5a3-fa04b3550889": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/pages\/about-us"
+          }
+        }
+      },
+      "block_order": [
+        "f56fe562-7f1a-4097-9ac4-ec9afd6f9a50",
+        "928503a0-0132-4e85-af8c-75fcb803f8d1",
+        "450ac42a-9eee-403e-a85a-9631c8968d2e",
+        "bd50ae8c-084e-4992-a5a3-fa04b3550889"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_2370.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "93159d70-4edc-4efc-baba-0df2b7a4215d": {
+      "type": "image-with-text",
+      "blocks": {
+        "3a49c326-d482-436a-b1b2-3aacb0a1c1f0": {
+          "type": "caption",
+          "settings": {
+            "caption": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "8b2e5d04-8339-4d74-959e-b14acc2a92f5": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cute Closing Gifts for your Clients with Furbabys!",
+            "heading_size": "h1"
+          }
+        },
+        "86c66b28-f4b8-430d-a58d-df045524b8c8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Calling all Real Estate Agents and Brokers! Set yourself apart from the rest that buy cheap boring closing gifts. Show your clients that you really care about them and their family and especially their doggo! <\/p><p>A genuine authentic homemade gift will further the relationship between agent and client than anything else out there. <\/p><p>We now offer a 9 oz bag of our homemade healthy treats with 3 perfect shapes for the occasion. A house, a dog, and a paw! Each bag also comes with a 20% off coupon for your client's first purchase. <br\/><br\/>Email us today at millershealthydogtreats@gmail.com for better than retail prices just for you!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "c79e08dd-7729-4900-8bbd-d0308cbb640b": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/pages\/about-us"
+          }
+        }
+      },
+      "block_order": [
+        "3a49c326-d482-436a-b1b2-3aacb0a1c1f0",
+        "8b2e5d04-8339-4d74-959e-b14acc2a92f5",
+        "86c66b28-f4b8-430d-a58d-df045524b8c8",
+        "c79e08dd-7729-4900-8bbd-d0308cbb640b"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_3646.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "16644360369d9ee49d": {
+      "type": "rich-text",
+      "blocks": {
+        "16644360361fe00cc5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Veteran Made. Doggo Approved.",
+            "heading_size": "h1"
+          }
+        },
+        "9ae56201-a9a6-453a-9d38-377ea4343611": {
+          "type": "text",
+          "settings": {
+            "text": "<p>It’s important to shower your pups with love and attention, whether they’re learning to shake paws or to behave around other dogs. If you’re looking for the perfect reward, the best homemade dog treats do the trick every time. For a natural brand you can trust and the best peanut butter dog treats around, try Miller’s Healthy Dog Treats today.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16644360361fe00cc5-0",
+        "9ae56201-a9a6-453a-9d38-377ea4343611"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": false
+      }
+    },
+    "165508772875232d68": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Shop our New Arrivals",
+        "collection": "all-products",
+        "products_to_show": 4,
+        "show_view_all": false,
+        "swipe_on_mobile": false,
+        "content_alignment": "center",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": true
+      }
+    },
+    "16642473479a26d11e": {
+      "type": "rich-text",
+      "blocks": {
+        "4d0b08ea-3490-4e8a-8441-66dfc9300833": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Our Products",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "4d0b08ea-3490-4e8a-8441-66dfc9300833"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "16866127027758e744": {
+      "type": "apps",
+      "blocks": {
+        "85426ea3-9c7d-4bd1-bde2-5be8bf569b84": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "85426ea3-9c7d-4bd1-bde2-5be8bf569b84"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "16642473710c931f3a": {
+      "type": "multicolumn",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "swipe_on_desktop": true
+      }
+    },
+    "8c41ad6d-6558-4f59-bed4-6a0267f2e780": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15550903058477__8c41ad6d-6558-4f59-bed4-6a0267f2e780-16837761545b1e7693-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Explore our Featured Collections",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--15550903058477__8c41ad6d-6558-4f59-bed4-6a0267f2e780-16837761545b1e7693-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": false
+      }
+    },
+    "89c5b8f7-9a1b-4def-a6da-c589d4592d99": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16082457624765__89c5b8f7-9a1b-4def-a6da-c589d4592d99-1676608555ba43a9d0-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "The Collar",
+            "link": "shopify:\/\/collections\/the-collar"
+          }
+        },
+        "template--16082457624765__89c5b8f7-9a1b-4def-a6da-c589d4592d99-1676608555ba43a9d0-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "The Harness",
+            "link": "shopify:\/\/collections\/the-walk-set"
+          }
+        },
+        "template--16082457624765__89c5b8f7-9a1b-4def-a6da-c589d4592d99-1676608555ba43a9d0-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "The Lead",
+            "link": "shopify:\/\/collections\/the-leash"
+          }
+        }
+      },
+      "block_order": [
+        "template--16082457624765__89c5b8f7-9a1b-4def-a6da-c589d4592d99-1676608555ba43a9d0-2",
+        "template--16082457624765__89c5b8f7-9a1b-4def-a6da-c589d4592d99-1676608555ba43a9d0-1",
+        "template--16082457624765__89c5b8f7-9a1b-4def-a6da-c589d4592d99-1676608555ba43a9d0-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "swipe_on_desktop": true
+      }
+    },
+    "29355c71-8a97-4968-92fd-81fbbdf63236": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Explore Our Best Sellers Products",
+        "collection": "all-products",
+        "products_to_show": 4,
+        "show_view_all": false,
+        "swipe_on_mobile": false,
+        "content_alignment": "center",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": true
+      }
+    },
+    "190201fc-df10-4b3c-a9b1-2b60f7ac92b5": {
+      "type": "newsletter",
+      "blocks": {
+        "template--15550903058477__190201fc-df10-4b3c-a9b1-2b60f7ac92b5-1683776591f4042eee-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stay Connected"
+          }
+        },
+        "template--15550903058477__190201fc-df10-4b3c-a9b1-2b60f7ac92b5-1683776591f4042eee-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Sign up for exclusive offers and a heads up on new things. We promise to only send you the good stuff.<\/p>"
+          }
+        },
+        "template--15550903058477__190201fc-df10-4b3c-a9b1-2b60f7ac92b5-1683776591f4042eee-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--15550903058477__190201fc-df10-4b3c-a9b1-2b60f7ac92b5-1683776591f4042eee-0",
+        "template--15550903058477__190201fc-df10-4b3c-a9b1-2b60f7ac92b5-1683776591f4042eee-1",
+        "template--15550903058477__190201fc-df10-4b3c-a9b1-2b60f7ac92b5-1683776591f4042eee-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": false
+      }
+    },
+    "16420449961d188765": {
+      "type": "featured-blog",
+      "disabled": true,
+      "settings": {
+        "heading": "Latest from our Blog",
+        "blog": "news",
+        "post_limit": 3,
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "soft_background": false,
+        "show_view_all": false
+      }
+    },
+    "0e18fe27-e56c-46c8-8658-53fbd3832590": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19228850618676__0e18fe27-e56c-46c8-8658-53fbd3832590-16849967598822efe2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Connect On Instagram",
+            "heading_size": "h1"
+          }
+        },
+        "template--19228850618676__0e18fe27-e56c-46c8-8658-53fbd3832590-16849967598822efe2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tag <a href=\"https:\/\/www.instagram.com\/millershealthydogtreats\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/millershealthydogtreats\/\"><strong>@millershealthydogtreats<\/strong><\/a> on your Instagram photos for a chance to be featured on our website. Find more inspirations on our Instagram.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19228850618676__0e18fe27-e56c-46c8-8658-53fbd3832590-16849967598822efe2-0",
+        "template--19228850618676__0e18fe27-e56c-46c8-8658-53fbd3832590-16849967598822efe2-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "545ee12b-bf93-4ca1-8ff5-482755e20902": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19228850618676__545ee12b-bf93-4ca1-8ff5-482755e20902-1684996838fadd5729-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3610_a8afbd99-c2ad-40a8-8fea-65ad494c97ce.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/www.instagram.com\/p\/CsRziNwyajh\/"
+          }
+        },
+        "template--19228850618676__545ee12b-bf93-4ca1-8ff5-482755e20902-1684996838fadd5729-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0153.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/www.instagram.com\/p\/CsOssEuMWsM\/"
+          }
+        },
+        "template--19228850618676__545ee12b-bf93-4ca1-8ff5-482755e20902-1684996838fadd5729-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2562.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/www.instagram.com\/p\/CsBgewmRQjk\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--19228850618676__545ee12b-bf93-4ca1-8ff5-482755e20902-1684996838fadd5729-0",
+        "template--19228850618676__545ee12b-bf93-4ca1-8ff5-482755e20902-1684996838fadd5729-1",
+        "template--19228850618676__545ee12b-bf93-4ca1-8ff5-482755e20902-1684996838fadd5729-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "swipe_on_desktop": false
+      }
+    }
+  },
+  "order": [
+    "e01e6c3e-b2aa-48cd-85d8-8991966dc74d",
+    "ae6df1fe-dd8a-40a2-a09b-f41275640b81",
+    "5a660df6-a025-4a51-89b8-3b64b354874d",
+    "52c3146d-b667-484a-83fa-f6f4fb9c44a6",
+    "305d32d3-54a3-42bb-aa31-7d44b1668a69",
+    "93159d70-4edc-4efc-baba-0df2b7a4215d",
+    "16644360369d9ee49d",
+    "165508772875232d68",
+    "16642473479a26d11e",
+    "16866127027758e744",
+    "16642473710c931f3a",
+    "8c41ad6d-6558-4f59-bed4-6a0267f2e780",
+    "89c5b8f7-9a1b-4def-a6da-c589d4592d99",
+    "29355c71-8a97-4968-92fd-81fbbdf63236",
+    "190201fc-df10-4b3c-a9b1-2b60f7ac92b5",
+    "16420449961d188765",
+    "0e18fe27-e56c-46c8-8658-53fbd3832590",
+    "545ee12b-bf93-4ca1-8ff5-482755e20902"
+  ]
+}

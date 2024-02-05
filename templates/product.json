@@ -1,0 +1,299 @@
+{
+  "sections": {
+    "1706293297b1fb4c0e": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "judgeme_preview_badge_product_page_63d2e87e": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "dr_volume_discounts_discount_promotion_cQfD4A": {
+          "type": "shopify:\/\/apps\/dr-volume-discounts\/blocks\/discount-promotion\/253aa77a-a419-4c90-a20b-e9283efcd331",
+          "settings": {
+            "widget_alignment": "left",
+            "text_alignment": "left",
+            "font_size": 16,
+            "text_color": "#393939",
+            "secondary_text_color": "#0ba619",
+            "border_color": "#656565",
+            "border_size": 1
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "color_scheme": "accent-2",
+            "use_outline_button_style": true,
+            "show_dynamic_checkout": true
+          }
+        },
+        "72895f6d-28dc-42e1-910b-ba552c1203e6": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p style=\"text-align: center\">Secured and trusted checkout with:<\/p>"
+          }
+        },
+        "890cc347-7659-4079-bc7d-81bd3e7e3857": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p style=\"text-align:center;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0657\/6357\/3974\/files\/Inspired_Daisy_-_Secured_Checkout_Design_2000_x_600_px_2000_x_600_px.png?v=1666236393\" alt=\"secured checkout\" width=\"75%\" ><\/p>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "8396bf33-2f39-4855-b50b-2fede0245ace": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Product Info",
+            "content": "<p>I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.<\/p>",
+            "page": "",
+            "icon": "eye"
+          }
+        },
+        "f998f06f-6c22-4340-878b-ab4c3e0b238a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping Information",
+            "content": "<p>We will usually ship within 48 hours of the order being placed. If there is a delay in shipping, we will reach out through the contact information provided. <\/p>",
+            "page": "",
+            "icon": "box"
+          }
+        },
+        "e6bc0478-88f2-4174-86be-12bddb1d504b": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Returns & Refunds",
+            "content": "<p>We do not accept returns. Refunds may be offered , but this will be on a case by case basis. <\/p>",
+            "page": "",
+            "icon": "return"
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "judgeme_preview_badge_product_page_63d2e87e",
+        "variant_picker",
+        "quantity_selector",
+        "dr_volume_discounts_discount_promotion_cQfD4A",
+        "buy_buttons",
+        "72895f6d-28dc-42e1-910b-ba552c1203e6",
+        "890cc347-7659-4079-bc7d-81bd3e7e3857",
+        "description",
+        "8396bf33-2f39-4855-b50b-2fede0245ace",
+        "f998f06f-6c22-4340-878b-ab4c3e0b238a",
+        "e6bc0478-88f2-4174-86be-12bddb1d504b",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": false,
+        "gallery_layout": "thumbnail_slider",
+        "media_size": "medium",
+        "mobile_thumbnails": "show",
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
+    "1706291615037f78dc": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "judgeme_section_review_widget_3366": {
+      "type": "apps",
+      "blocks": {
+        "judgeme_review_widget_972a739b": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judgeme_review_widget_972a739b"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1fff54f3-0606-4ce7-b66f-b21967f13d55": {
+      "type": "image-with-text",
+      "blocks": {
+        "4e6af1da-dade-4749-b534-ef41e9eae225": {
+          "type": "caption",
+          "settings": {
+            "caption": "OUR COMMITMENT",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16886772793558__1fff54f3-0606-4ce7-b66f-b21967f13d55-168205065865de2567-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Change a dog’s life with every order",
+            "heading_size": "h1"
+          }
+        },
+        "template--16886772793558__1fff54f3-0606-4ce7-b66f-b21967f13d55-168205065865de2567-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We believe all dogs deserve a happy & healthy life—so, we've committed to donating a portion of every sale to a trusted animal shelter.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "4e6af1da-dade-4749-b534-ef41e9eae225",
+        "template--16886772793558__1fff54f3-0606-4ce7-b66f-b21967f13d55-168205065865de2567-0",
+        "template--16886772793558__1fff54f3-0606-4ce7-b66f-b21967f13d55-168205065865de2567-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/343786530_1218104625507244_622954115674982710_n.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "1642150476bd34c29a": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Shop our Best Sellers",
+        "collection": "all-products",
+        "products_to_show": 4,
+        "show_view_all": false,
+        "swipe_on_mobile": true,
+        "content_alignment": "left",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": true
+      }
+    },
+    "2bcf0cc0-3cae-4776-949e-df51429353e9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15550903386157__2bcf0cc0-3cae-4776-949e-df51429353e9-1683778395c439b6b7-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "The Collar",
+            "link": "shopify:\/\/collections\/the-collar"
+          }
+        },
+        "template--15550903386157__2bcf0cc0-3cae-4776-949e-df51429353e9-1683778395c439b6b7-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "The Harness",
+            "link": "shopify:\/\/collections\/the-walk-set"
+          }
+        },
+        "template--15550903386157__2bcf0cc0-3cae-4776-949e-df51429353e9-1683778395c439b6b7-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "The Lead",
+            "link": "shopify:\/\/collections\/the-leash"
+          }
+        }
+      },
+      "block_order": [
+        "template--15550903386157__2bcf0cc0-3cae-4776-949e-df51429353e9-1683778395c439b6b7-0",
+        "template--15550903386157__2bcf0cc0-3cae-4776-949e-df51429353e9-1683778395c439b6b7-1",
+        "template--15550903386157__2bcf0cc0-3cae-4776-949e-df51429353e9-1683778395c439b6b7-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Explore our Featured Collections",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "View All Collections",
+        "button_link": "shopify:\/\/collections",
+        "swipe_on_mobile": false,
+        "swipe_on_desktop": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You might want to take a look at these",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": true
+      }
+    }
+  },
+  "order": [
+    "1706293297b1fb4c0e",
+    "main",
+    "1706291615037f78dc",
+    "judgeme_section_review_widget_3366",
+    "1fff54f3-0606-4ce7-b66f-b21967f13d55",
+    "1642150476bd34c29a",
+    "2bcf0cc0-3cae-4776-949e-df51429353e9",
+    "product-recommendations"
+  ]
+}
